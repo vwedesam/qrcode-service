@@ -5,7 +5,7 @@
 ## Installation
 
 ```js 
-    git clone https://gitlab.com/bitpowr/qrcode-service.git
+    git clone https://github.com/vwedesam/qrcode-service.git
     cd qrcode-service
     npm install
 ```
