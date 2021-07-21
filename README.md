@@ -1,13 +1,15 @@
 # qrcode service
 
 - An express application for Serving Qrcode 
+ 
+ ![qrcode](https://github.com/vwedesam/images/blob/main/Qrcode/Screenshot%202021-07-21%20111135.png)
 
 ## Installation
 
-```js 
-    git clone https://github.com/vwedesam/qrcode-service.git
-    cd qrcode-service
-    npm install
+```ssh 
+    /~$ git clone https://github.com/vwedesam/qrcode-service.git
+    /~$ cd qrcode-service
+    qrcode-service/~$ npm install
 ```
 
 ## example
