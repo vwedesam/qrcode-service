@@ -2,7 +2,7 @@
 
 - An express application for Serving Qrcode 
  
- ![qrcode](https://github.com/vwedesam/images/blob/main/Qrcode/Screenshot%202021-07-21%20111135.png)
+ ![qrcode](https://github.com/vwedesam/qrcode-service/blob/master/Screenshot%202021-07-21%20111135.png)
 
 ## Installation
 
